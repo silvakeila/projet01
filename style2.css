@@ -11,8 +11,17 @@
     border: 10px;
     border color: aliceblue;
 
-
-
-
-
 }
+
+.lista-links{
+    font-size: 20px;
+    color: rgb(0, 255, 98);
+    text-decoration: none;
+ 
+ }
+ .lista-links:hover{
+    font-size: 25px;
+    color: blue;
+    text-decoration: underline;
+ 
+ }  
