@@ -1,3 +1,21 @@
+#link{
+   font-size: 20px;
+   color: blue;
+   text-decoration: none;
+
+}
+#link:hover{
+      font-size: 25px;
+      color: rgb(208,255, 0);
+      text-decoration: underline;
+   
+ }
+
+#imagem-remo{ 
+   width: 100px;
+   border: solid 3px white ;
+}
+
 .principal{
      background-color: navy;
      color: firebrick;
